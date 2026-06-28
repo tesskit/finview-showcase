@@ -6,7 +6,6 @@
 ## Live Demo
 
 🔐 [finview-ai.com](https://finview-ai.com) — token-gated
-📬 Request access: reach out via [LinkedIn](https://linkedin.com/in/maureen-ebreo)
 
 ---
 
@@ -22,7 +21,7 @@ Built and deployed to production, actively used.
 
 | Layer | Technology |
 |---|---|
-| LLM | Anthropic Claude API — Sonnet 4.6 (`claude-sonnet-4-6`) |
+| LLM | Anthropic Claude API — Sonnet 4.6 (`claude-sonnet-4-6`) + Haiku 4.5 (`claude-haiku-4-5-20251001`) |
 | Backend | Python + FastAPI |
 | Frontend | React / Next.js |
 | Database | PostgreSQL |
@@ -83,7 +82,7 @@ Evaluated AI-generated catalyst data, determined output quality did not meet the
 
 ## Screenshots
 
-> Screenshots available on request -- reach out via [LinkedIn](https://linkedin.com/in/maureen-ebreo).
+> Screenshots available on request.
 
 ---
 
